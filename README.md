@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **rhayzayepez@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rhayzayepez](www.linkedin.com/in/rhayzayepez)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P2ywxwormVhpQOsvWYqigT41-IfwJw4j/view?usp=sharing](https://drive.google.com/file/d/1P2ywxwormVhpQOsvWYqigT41-IfwJw4j/view?usp=sharing)
 
 - ⚡ Fun fact **When I graduate from highschool I wanted to be a dentist, I started studying civil engineering, I changed my career to law, I'm a lawyer and now I am changing to the field of technology, I like codes, cloud and database so far XD. It's never too late to try what you love!**
 
