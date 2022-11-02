@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhayza Yepez</h1>
 <h3 align="center">A passionate Python student living in Chile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhayzac" alt="rhayzac" /></a> </p>
-
 - 📫 How to reach me **rhayzayepez@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/rhayzayepez](www.linkedin.com/in/rhayzayepez)
@@ -16,7 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhayzac&show_icons=true&locale=en&layout=compact" alt="rhayzac" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhayzac&show_icons=true&locale=en" alt="rhayzac" /></p>
