@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P2ywxwormVhpQOsvWYqigT41-IfwJw4j/view?usp=sharing](https://drive.google.com/file/d/1P2ywxwormVhpQOsvWYqigT41-IfwJw4j/view?usp=sharing)
 
-- ⚡ Fun fact **When I graduate from highschool I wanted to be a dentist, I started studying civil engineering, I changed my career to law, I'm a lawyer and now I am changing to the field of technology, I like codes, cloud and database so far XD. It's never too late to try what you love!**
+- ⚡ Fun fact **When I graduate from highschool I wanted to be a dentist, I started studying civil engineering, I changed my career to law, I'm a lawyer and now I am changing to the field of technology, I like coding, cloud and some about computer so far XD. It's never too late to try what you love!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
