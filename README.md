@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhayza Yepez</h1>
-<h3 align="center">A passionate Python and MERN student living in Chile</h3>
+<h3 align="center">A passionate Python and Fullstack MERN student living in Chile</h3>
 
 - 📫 How to reach me **rhayzayepez@gmail.com**
 
